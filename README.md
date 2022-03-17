@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-dewangan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-dewangan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak2001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak dambare" /> </p>
 
 <a href="https://ko-fi.com/sciencepal"> <img 
 src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
