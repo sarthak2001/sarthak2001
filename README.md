@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 
-  [![Visits Badge](https://badges.pufler.dev/visits/sarthak2001/sarthak2001)](https://badges.pufler.dev/visits/sarthak2001/sarthak2001)<h2 align="center">** A Nerd Who is Trying To Do Something..!**</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-dewangan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-dewangan" /> </p>
 
 <a href="https://ko-fi.com/sciencepal"> <img 
 src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
