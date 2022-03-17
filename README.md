@@ -47,4 +47,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  # 📫 **How to reach me:** 
  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="4%"/>](https://steamcommunity.com/profiles/76561198180083251/)  &nbsp; [<img src="https://img.icons8.com/color/344/discord-logo.png" width="5%"/>](https://discordapp.com/users/sarthak#6317)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/>](https://twitter.com/sarthak_2170)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/sarthak-dambare/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/>](https://www.facebook.com/SarthakDambare/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/sarthak_fpv/)  &nbsp; <a href="mailto:sarthakart7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
 _____
-  
+ 
+ #### :bar_chart: [Monthly coding time](https://github.com/sarthak2001/)
+
+<!--START_SECTION:waka-->
+```text
+Markdown   10 hrs 50 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20 % 
+C++        18 hrs 22 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.75 % 
+text       3 hrs 1 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.45 % 
+Shell      3 hrs 27 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.68 % 
+Python     2 hrs 42 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.66 % 
+```
+<!--END_SECTION:waka-->
+
