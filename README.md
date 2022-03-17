@@ -23,7 +23,7 @@ src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif"
 
 
 
-<img align="right" alt="GIF" src="https://github.com/sarthak2001/code.gif/blob/main/code12.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/sarthak2001/code.gif/blob/main/code12.gif?raw=true" width="340" height="245" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -36,7 +36,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sarthak2001&show_icons=true&theme=radical)<img align="right" height="240" width="400" src="https://github.com/sarthak2001/code.gif/blob/main/coder.gif?raw=true">
+![Stats](https://github-readme-stats.vercel.app/api?username=sarthak2001&show_icons=true&theme=radical)<img align="right" height="245" width="340" src="https://github.com/sarthak2001/code.gif/blob/main/coder.gif?raw=true">
   
  
 
